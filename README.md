@@ -49,7 +49,7 @@ To effectively communicate our findings, we employ several visualization techniq
 ## Installation and Execution
 Clone this repository, install necessary dependencies, and run the Jupyter Notebook to replicate our analysis:
 ```console
-git clone [[https://github.com/YourGitHub/YourRepository.git](https://github.com/Azazftb/Econmic-Developement.git)](https://github.com/Azazftb/Econmic-Developement.git)
+git clone [[[https://github.com/YourGitHub/YourRepository.git](https://github.com/Azazftb/Econmic-Developement.git)]
 cd Econmic-Developement
 pip install pandas matplotlib seaborn
 jupyter notebook
