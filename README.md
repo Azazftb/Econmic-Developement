@@ -36,12 +36,12 @@ To effectively communicate our findings, we employ several visualization techniq
 ## Team
 - **Mahad Qureshi**
   - GitHub: [mxxhaq](https://github.com/mxxhaq)
-  - Email: [something@gmail.com](mailto:something@gmail.com)
+  - Email: [qurem7067@gmail.com@gmail.com](mailto:qurem7067@gmail.com)
 - **Gurvansh Gill**
-  - Email: [soemthjing2@mylaurier.ca](mailto:soemthjing2@mylaurier.ca)
-- **Ahmad Ahmad**
-  - GitHub: [Soemthingftb](https://github.com/Soemthingftb)
-  - Email: [soemthing23@gmail.com](mailto:soemthing23@gmail.com)
+  - Email: [gill4200@mylaurier.ca](mailto:gill4200@mylaurier.ca)
+- **Azaz Azaz**
+  - GitHub: [Azazftb]([https://github.com/Soemthingftb](https://github.com/Azazftb))
+  - Email: [azazftb@gmail.com](mailto:azazftb@gmail.com)
 
 ## Installation and Execution
 Clone this repository, install necessary dependencies, and run the Jupyter Notebook to replicate our analysis:
