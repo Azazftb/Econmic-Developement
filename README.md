@@ -18,8 +18,7 @@ The dataset used for this analysis, provided by Statistics Canada, encompasses m
 ├── Cleaned_Data.xlsx        # Excel file with cleaned data for analysis
 ├── Cleaned_Data1.csv        # CSV file with additional cleaned data
 ├── Main.ipynb               # Jupyter notebook with complete analysis
-└── README.md                # Documentation and overview of the project
-
+└── README.md                # Documentation and overview of the project```
 ## Visualization Techniques
 To effectively communicate our findings, we employ several visualization techniques:
 - **Line Graphs**: Trace the overall employment trends across all industries.
