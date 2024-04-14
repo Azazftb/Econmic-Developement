@@ -40,7 +40,7 @@ To effectively communicate our findings, we employ several visualization techniq
 - **Gurvansh Gill**
   - Email: [gill4200@mylaurier.ca](mailto:gill4200@mylaurier.ca)
 - **Azaz Azaz**
-  - GitHub: [Azazftb]([https://github.com/azazftb]))
+  - GitHub: [Azazftb]([https://github.com/azazftb])
   - Email: [azazftb@gmail.com](mailto:azazftb@gmail.com)
 
 ## Installation and Execution
