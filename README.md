@@ -36,7 +36,7 @@ To effectively communicate our findings, we employ several visualization techniq
 ## Team
 - **Mahad Qureshi**
   - GitHub: [mxxhaq](https://github.com/mxxhaq)
-  - Email: [qurem7067@gmail.com@gmail.com](mailto:qurem7067@gmail.com)
+  - Email: [qurem7067@gmail.com](mailto:qurem7067@gmail.com)
 - **Gurvansh Gill**
   - Email: [gill4200@mylaurier.ca](mailto:gill4200@mylaurier.ca)
 - **Azaz Azaz**
