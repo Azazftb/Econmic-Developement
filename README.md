@@ -18,7 +18,8 @@ The dataset used for this analysis, provided by Statistics Canada, encompasses m
 ├── Cleaned_Data.xlsx        # Excel file with cleaned data for analysis
 ├── Cleaned_Data1.csv        # CSV file with additional cleaned data
 ├── Main.ipynb               # Jupyter notebook with complete analysis
-└── README.md                # Documentation and overview of the project```
+└── README.md                # Documentation and overview of the project
+```
 ## Visualization Techniques
 To effectively communicate our findings, we employ several visualization techniques:
 - **Line Graphs**: Trace the overall employment trends across all industries.
@@ -44,11 +45,12 @@ To effectively communicate our findings, we employ several visualization techniq
 
 ## Installation and Execution
 Clone this repository, install necessary dependencies, and run the Jupyter Notebook to replicate our analysis:
-```terminal
+```console
 git clone https://github.com/YourGitHub/YourRepository.git
 cd YourRepository
 pip install pandas matplotlib seaborn
-jupyter notebook```
+jupyter notebook
+```
 
 ## Conclusion
 Our comprehensive analysis provides valuable insights into the Canadian job market's responsiveness to economic events, aiding stakeholders in making informed decisions. Sectors like technology and healthcare have shown growth and resilience, while others like manufacturing have experienced more significant impacts from economic downturns.
