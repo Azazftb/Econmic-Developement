@@ -12,7 +12,7 @@ With Canada's job market being both diverse and subject to global and local econ
 
 ## Data Source
 The dataset used for this analysis, provided by Statistics Canada, encompasses monthly employment rates by sector, covering the period from 2006 to 2023. This comprehensive dataset allows for a detailed examination of employment dynamics within the Canadian economy.
-Here is website We got the information from: [statistics canada] (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410039201&pickMembers%5B0%5D=1.1&cubeTimeFrame.startYear=2006&cubeTimeFrame.endYear=2023&referencePeriods=20060101%2C20230101)
+Here is website We got the information from:[Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410039201&pickMembers%5B0%5D=1.1&cubeTimeFrame.startYear=2006&cubeTimeFrame.endYear=2023&referencePeriods=20060101%2C20230101)
 
 
 ## Repository Contents
@@ -48,7 +48,7 @@ To effectively communicate our findings, we employ several visualization techniq
 ## Installation and Execution
 Clone this repository, install necessary dependencies, and run the Jupyter Notebook to replicate our analysis:
 ```console
-git clone [https://github.com/YourGitHub/YourRepository.git](https://github.com/Azazftb/Econmic-Developement.git)
+git clone [[https://github.com/YourGitHub/YourRepository.git](https://github.com/Azazftb/Econmic-Developement.git)](https://github.com/Azazftb/Econmic-Developement.git)
 cd Econmic-Developement
 pip install pandas matplotlib seaborn
 jupyter notebook
