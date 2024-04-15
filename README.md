@@ -1,7 +1,8 @@
 # Employment Trends Analysis in Canada
 
 ## Project Overview
-This project was doen foru our class CP321 (Data Visualization)
+This project was doen for our class CP321 (Data Visualization). We utilized Jupyter Notebook and Python to analyze a dataset covering employment figures in Canada from January 2006 to March 2024, categorized by NAICS sectors. Our process included data cleaning, formulating a research question, and creating visualizations using Matplotlib or Plotly to convey insights. Our project documentation includes an Introduction, Proposed Approach, and Visualization Description and Analysis sections, ensuring a clear presentation of our findings and message to the audience.
+
 This repository contains a detailed analysis of employment trends across various sectors in Canada from 2006 to 2023. Our work aims to understand how different sectors have responded to major economic events such as the 2008 financial crisis and the COVID-19 pandemic, and to identify sectors that demonstrate resilience or volatility under economic pressures.
 
 ## Motivation
