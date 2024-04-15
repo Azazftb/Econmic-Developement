@@ -36,7 +36,7 @@ To effectively communicate our findings, we employ several visualization techniq
 - **Pandas**: Dataframe management and operations.
 - **Matplotlib & Seaborn**: For generating static, interactive, and aesthetically pleasing visualizations.
 
-## Team
+## 👏Team
 - **Mahad Qureshi**
   - GitHub: [mxxhaq](https://github.com/mxxhaq)
   - Email: [qurem7067@gmail.com](mailto:qurem7067@gmail.com)
