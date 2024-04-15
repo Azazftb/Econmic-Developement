@@ -1,4 +1,4 @@
-# Employment Trends Analysis in Canada
+# Economic Pulse: Tracking Employment Shifts Across Canadian Sectors
 
 ## Project Overview
 This project was done for our class CP321 (Data Visualization). We utilized Jupyter Notebook and Python to analyze a dataset covering employment figures in Canada from 2006 to 2023, categorized by NAICS sectors. Our process included data cleaning, formulating a research question, and creating visualizations using Matplotlib or Plotly to convey insights. Our project documentation includes an Introduction, Proposed Approach, and Visualization Description and Analysis sections, ensuring a clear presentation of our findings and message to the audience.
